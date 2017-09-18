@@ -74,6 +74,9 @@ describe('hooks', function () {
         it('点击登录', async function () {
             await web.findElement(by.id('pass')).submit();
         });
+        it('test word', function () {
+           return true
+        });
 
     })
 })
