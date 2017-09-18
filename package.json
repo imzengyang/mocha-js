@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "jenkins:dev": "./node_modules/.bin/jenkins-mocha test.js",
-    "windows:dev": " mocha test --reporter mocha-junit-reporter"
+    "windows:dev": " mocha test.js --reporter mocha-junit-reporter"
   },
   "author": "",
   "license": "ISC",
