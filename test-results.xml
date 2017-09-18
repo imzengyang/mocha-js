@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="8.277000000000001" tests="7" failures="0">
+  <testsuite name="Root Suite" timestamp="2017-09-18T00:37:09" tests="0" failures="0" time="0">
+  </testsuite>
+  <testsuite name="hooks" timestamp="2017-09-18T00:37:09" tests="0" file="C:\Users\zengyang\Desktop\01\mocha-js\test.js" failures="0" time="0">
+  </testsuite>
+  <testsuite name="用户登录发布话题并回复" timestamp="2017-09-18T00:37:09" tests="7" file="C:\Users\zengyang\Desktop\01\mocha-js\test.js" failures="0" time="8.277000000000001">
+    <testcase name="hooks 用户登录发布话题并回复 导航到登录页面" time="1.698" classname="导航到登录页面">
+    </testcase>
+    <testcase name="hooks 用户登录发布话题并回复 最大化窗口" time="0.128" classname="最大化窗口">
+    </testcase>
+    <testcase name="hooks 用户登录发布话题并回复 点击注册按钮" time="1.388" classname="点击注册按钮">
+    </testcase>
+    <testcase name="hooks 用户登录发布话题并回复 进入登录界面" time="0.606" classname="进入登录界面">
+    </testcase>
+    <testcase name="hooks 用户登录发布话题并回复 输入账号" time="0.368" classname="输入账号">
+    </testcase>
+    <testcase name="hooks 用户登录发布话题并回复 输入密码" time="0.78" classname="输入密码">
+    </testcase>
+    <testcase name="hooks 用户登录发布话题并回复 点击登录" time="3.309" classname="点击登录">
+    </testcase>
+  </testsuite>
+</testsuites>
